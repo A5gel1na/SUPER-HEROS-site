@@ -13,7 +13,12 @@ header{
 }
 
 .título{
+    margin: 24px 0;
+    font-size: 50px;
+}
 
+.subtítulo{
+    padding: 20px 0;
 }
    
 
@@ -25,4 +30,12 @@ header{
     background-image: linear-gradient(#001356,#74ABFF);
     color: #FFFFFF;
     display: flex;
+    justify-content: center;
+    align-items: normal;
+    padding: 24px 0;
+    
+}
+
+.heroes-div-conteudo{
+    width: 25%;
 }
