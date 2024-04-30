@@ -50,13 +50,21 @@ body{
 .heroes-div-conteudo{
     width: 25%;
 }
+
+.personagens-título{
+    text-align: center;
+    padding: 40px 0;
+    font-size: 36px;
+}
+
+.personagens-todos{
+    display: grid;
+}
+
 .x-men-imagem {
     width: 230px;
 }
 
 .x-men-div{
    text-align: center;
-}
-.quarteto-imgem{
-    width: 100px;
 }
