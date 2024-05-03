@@ -59,6 +59,7 @@ body{
 
 .personagens-todos{
     display: grid;
+    grid-template-columns: 33% 33% 33%;
 }
 
 .x-men-imagem {
@@ -67,4 +68,28 @@ body{
 
 .x-men-div{
    text-align: center;
+}
+
+.quarteto-imagem{
+    width: 260px;
+}
+
+.quarteto-div{
+    text-align: center;
+}
+
+.superman-imagem{
+    width: 240px;
+}
+
+.superman-div{
+    text-align: center;
+}
+
+.capitao-imagem{
+    width: 230px;
+}
+
+.capitao-div{
+    text-align: center;
 }
