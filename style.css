@@ -15,7 +15,7 @@ header{
     padding: 24px 0;
 }
 
-.inicial {
+.inicial{
     background-color: #001356;
     color: white;
     display: flex;
@@ -97,7 +97,25 @@ header{
     padding: 16px 0;
 }
 
+.hulk-imagem{
+    width: 240px;
+}
+
+.hulk-div{
+    text-align: center;
+    padding: 16px 0;
+}
+
+.homem-ferro-imagem{
+    width: 240px;
+}
+
+.homem-ferro-div{
+    text-align: center;
+    padding: 16px 0;
+}
+
 .personagens-todos{
     display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-columns: 33% 33% 33%;
 }
